@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/9314c479-d243-4a04-bbe6-064bd2c0173b/resourceGroups/Dispensador2/providers/Microsoft.Web/sites/Dispensador2",
+    "appService.deploySubpath": ""
+}
