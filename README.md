@@ -6,8 +6,6 @@ app for the prototype(arduino) to feed pets ⚛ React Native App
 ![Feedpets](https://res.cloudinary.com/djuqxjkh3/image/upload/v1612904476/FEEDPETS%20/feedpets_wemfj0.png)
 
 
-Heroes is a app to find your favorite hero.
-
 ## 📢 Requirements
 - Node JS 12.16.1 _(Recommended)_
 - NPM 6.13.4 _(Recommended)_
